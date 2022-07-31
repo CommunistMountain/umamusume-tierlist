@@ -2,7 +2,7 @@ import sqlite3
 import json
 from json import JSONEncoder
 
-dblocation = 'C:\\Users\\Erzz\\AppData\\LocalLow\\Cygames\\umamusume\\master\\master.mdb'
+dblocation = 'C:\\Users\\chris\\AppData\\LocalLow\\Cygames\\umamusume\\master\\master.mdb'
 
 class Card():
     id = 0
